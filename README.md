@@ -16,6 +16,6 @@ GUI代码为main.py，通过调用保存微调后的模型进行推理
 
 **软件截图**
 
-![](https://gitee.com/unlucky-she/macbertcsc_fine_tuning/raw/master/image/picture1.png)
+![](http://124.223.164.149:9080/i/2023/04/13/64377956d915a.png)
 
-![](https://gitee.com/unlucky-she/macbertcsc_fine_tuning/raw/master/image/picture2.png)
+![](http://124.223.164.149:9080/i/2023/04/13/6437795786d0e.png)
